@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+.container
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./nor.jpeg);
+    background-size: cover;
+    padding: 70px;
+}
+.box
+{
+    background-image: url(./nor.jpeg);
+    
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    margin-top: -10px;
+
+}
+nav
+{
+    
+   padding: 10px 100px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   color: whitesmoke;
+   
+    
+}
+nav ul
+{
+
+    
+    width: 60%;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    color: whitesmoke;
+}
+
+.hero_section
+{
+    
+    margin-top: 100px;
+    margin-left: 41px;
+
+}
+.font_section img
+{
+    height: 25px;
+
+    margin-top: 10px;
+    
+}
+
+.text-section
+{
+ margin-left: 550px;  
+ margin-top: -250px; 
+ color: whitesmoke;
+}
+    
+.text-section p
+{
+    font-size: 130px;
+}
+
+.hero_section button
+{
+    height: 40px;
+    width: 150px;
+    margin-left: 900px;
+    margin-top: 35px;
+}
+  
+    
+
